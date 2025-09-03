@@ -1,0 +1,6 @@
+timestamp_iso,transcript,direction,turns,steps_per_turn,total_steps,gcode,grbl_reply
+2025-09-02T23:11:45,Forward two spins.,forward,2.0000,3200,6400,G1 X2.0000 F60.00,ok
+2025-09-02T23:13:32,Backward 5,backward,5.0000,3200,16000,G1 X-5.0000 F60.00,ok
+2025-09-02T23:19:01,Forward 3 spins.,forward,3.0000,3200,9600,G1 X3.0000 F60.00,ok
+2025-09-02T23:23:59,forward three spins.,forward,3.0000,3200,9600,G1 X3.0000 F60.00,ok
+2025-09-02T23:25:58,backward three rotations.,backward,3.0000,3200,9600,G1 X-3.0000 F60.00,ok

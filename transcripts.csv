@@ -1,0 +1,2 @@
+timestamp_iso,model,input_device,sample_rate_hz,duration_sec,segments,words,chars,compute_sec,rtf,text
+2025-09-02T01:03:45,small.en,"2M WebCam: USB Audio (hw:1,0)",16000,10.00,3,8,52,20.19,2.02,"Hey, tell me about yourself. Umm... Starting from..."
